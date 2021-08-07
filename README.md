@@ -5,7 +5,7 @@
 
 - :1234: Algebra
 
-- Programación I
+- 👨‍💻 Programación I
 
 - :computer: Estructura de un Computador
 
