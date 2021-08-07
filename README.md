@@ -1,15 +1,15 @@
-<h1 align="center">Hola 👋, Soy Maxi</h1>
+<h1 align="center">Hola 👋, Soy Maxi :last_quarter_moon_with_face:</h1>
 <h3 align="center">Esta es una Colección de ejercicios y transformación de teoría del Instituto Raul Scalabrini Ortiz - IRSO</h3>
 
 <h4 align="left">Materias de primer año</h4>
 
-- Algebra
+- :1234: Algebra
 
 - Programación I
 
-- Estructura de un Computador
+- :computer: Estructura de un Computador
 
-- Teoría de Sistemas
+- :page_with_curl: Teoría de Sistemas
 
 
 
