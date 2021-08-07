@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Maxi :last_quarter_moon_with_face:</h1>
-<h3 align="center">Esta es una Colección de ejercicios y transformación de teoría del Instituto Raul Scalabrini Ortiz - IRSO</h3>
+<h3 align="center">Esta es una Colección de ejercicios y transformación de teoría de la carrera "Analistas de Sistemas" del Instituto Raul Scalabrini Ortiz - IRSO</h3>
 
 <h4 align="left">Materias de primer año</h4>
 
