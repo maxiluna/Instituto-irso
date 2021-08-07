@@ -1,7 +1,7 @@
 /*********************************************/
-/* Materia: Programacion 1			         */
+/* Materia: Programacion 1	             */
 /*                                           */
-/* Descripción: EXPRESIONES					 */
+/* Descripción: EXPRESIONES		     */
 /*              TIPOS Y OPERADORES.          */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
