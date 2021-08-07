@@ -6,7 +6,7 @@
 - :1234: Algebra
 
 - 👨‍💻 Programación I
-  - Unidad1-1.05-Expresiones
+  - [Unidad1-1.05-Expresiones](../main/01-programacion1/Unidad1-1.05-Expresiones.c)
 
 - :computer: Estructura de un Computador
 
