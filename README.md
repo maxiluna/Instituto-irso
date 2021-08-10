@@ -4,6 +4,7 @@
 <h4 align="left">Materias de primer año</h4>
 
 - :1234: Algebra
+   - [Unidad4-4.01-Vectores - (C)](../main/01-algebra/Unidad4-4.01-Vectores.c)
 
 - 👨‍💻 Programación I
   - [Unidad1-1.05-Expresiones - (C)](../main/01-programacion1/Unidad1-1.05-Expresiones.c)
