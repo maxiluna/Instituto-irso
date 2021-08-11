@@ -9,19 +9,21 @@ int main(){
 	vectresultadoy = 0;
 	dimensiones = 0;
 	
-	printf("Vamos a sumar dos vector, agregaremos los coordenadas\n");
-	scanf("cuantas dimensiones tendra? ¿ 2 o 3 ? %f",& dimensiones);
+	printf("Sumamos dos vector, indique si tiene 2 o 3 dimensiones:\n");
+	scanf("%f", &dimensiones);
 	
 	
 	for(i=0;i<dimensiones-1;i++){
-		printf("Ingresamos las coordenadas del punto\n %f",& i+1);
+		printf("Ingresamos las coordenadas del punto\n %f",&i);
 		
-		scanf("Ingrese punto x %f",& vectx);
-		scanf("Ingrese punto x %f",& vecty);
+		printf("Ingrese punto x:\n");
+		scanf("%f", &vectx);
+		printf("Ingrese punto y:\n");
+		scanf("%f", &vecty);
 		vectresultadox = vectx + vectresultadox;
 		vectresultadoy = vecty + vectresultadoy;
 
-		printf("%d %d", vectresultadox, vectresultadoy);
+		printf("%f%f", vectresultadox, vectresultadoy);
 	}
 /*
 	if dimensiones==2{
