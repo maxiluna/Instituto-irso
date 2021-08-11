@@ -13,18 +13,19 @@ int main(){
 	scanf("%f", &dimensiones);
 	
 	
-	for(i=0;i<dimensiones-1;i++){
+	for(i=0;i<dimensiones;i++){
 		printf("Ingresamos las coordenadas del punto\n %f",&i);
 		
-		printf("Ingrese punto x:\n");
+		printf("\nIngrese punto x:\n");
 		scanf("%f", &vectx);
-		printf("Ingrese punto y:\n");
+		printf("\nIngrese punto y:\n");
 		scanf("%f", &vecty);
 		vectresultadox = vectx + vectresultadox;
 		vectresultadoy = vecty + vectresultadoy;
 
-		printf("%f%f", vectresultadox, vectresultadoy);
 	}
+	printf("\n%f %f", vectresultadox, vectresultadoy);
+
 /*
 	if dimensiones==2{
 		printf("introduce el valor de x para el vector A\n");
