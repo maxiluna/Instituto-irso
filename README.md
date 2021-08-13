@@ -8,6 +8,7 @@
 
 - 👨‍💻 Programación I
   - [Unidad1-1.05-Expresiones - (C)](../main/01-programacion1/Unidad1-1.05-Expresiones.c)
+  - [Unidad1-1.07-Entrada y salida de datos - (C)](../main/01-programacion1/Unidad1-1.07-Entrada%20y%20salida%20de%20datos.c)
 
 - :computer: Estructura de un Computador
 
