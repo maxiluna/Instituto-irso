@@ -1,8 +1,8 @@
 /*********************************************/
-/* Materia: Programacion 1	                 */
+/* Materia: Programacion 1	             */
 /*                                           */
 /* Descripción: ENTRADA Y SALIDA             */
-/*              DE DATOS.					           */
+/*              DE DATOS.		     */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
