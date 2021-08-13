@@ -9,6 +9,9 @@
 - 👨‍💻 Programación I
   - [Unidad1-1.05-Expresiones - (C)](../main/01-programacion1/Unidad1-1.05-Expresiones.c)
   - [Unidad1-1.07-Entrada y salida de datos - (C)](../main/01-programacion1/Unidad1-1.07-Entrada%20y%20salida%20de%20datos.c)
+  - [Unidad1-1.08-Estructuras de seleccion - (C)](../main/01-programacion1/Unidad1-1.08-Estructuras%20de%20seleccion.c)
+  - [Unidad1-1.09-Estructuras de repeticion - (C)](../main/01-programacion1/Unidad1-1.09-Estructuras%20de%20repeticion.c)
+  - [Unidad1-1.10-Estructuras anidadas - (C)](../main/01-programacion1/Unidad1-1.10-Estructuras%20anidadas.c)
 
 - :computer: Estructura de un Computador
 
