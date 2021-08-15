@@ -19,7 +19,47 @@
 int x;
 
 main(){
+	/* 
+		printf:
+	*/
+	printf( "Primera Linea C\n" );
+	printf( "Segunda Linea C\n" );
+	printf("Tercera Linea\n.Cuarta Linea\n..Quinta Linea\n...Sexta Linea\n\n");
+
+	/* 
+		asignacion de variables y tipos:
+		printf
+			%c caracteres
+			%s cadena de caracteres
+			%d enteros
+			%f flotantes
+	*/
+	float varfloat1, varfloat2, varfloat3;
+	int vara, varb, varc, vard, vare;
+	char varletra1, varletra2;
 	
+	varfloat1 = 1.12;
+	printf("%f \n", varfloat1);
+	
+	varfloat2 = 2.55;
+	printf("%f \n", varfloat1+varfloat2);
+	
+	
+	vara = 2;
+	printf("%d \n", vara);
+	varb = 5;
+	printf("%d \n", vara+varb);
+	vare = vard = varb;
+	printf("%d \n", vare+vard);
+	vare = vare+3*9+varb*33;
+	printf("%d \n", vare);
+	
+	varletra1 = 'a';
+	printf("%c \n", varletra1);
+	
+	varletra2 = 't';
+	printf("%c %c \n\n", varletra1, varletra2);
+
 	/*
 		SCANF y su impresion por decision.
 	*/
