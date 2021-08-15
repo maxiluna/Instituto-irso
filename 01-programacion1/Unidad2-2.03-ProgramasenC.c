@@ -87,13 +87,30 @@ main(){
 	
 	
 	int x2;
+	// Desde 0 hasta 6 (no inclusive)
 	for(x2 = 0 ; x2 < 6 ; x2 = x2 + 1){
 		printf ( "El valor de x2 es %d\n", x2);
 	}
 	
+	/*
+		WHILE
+	*/
+	
+	int x3=1;
+	while ( x3 < 12 ){
+		printf("Linea número %d\n", x3);
+		x3++;
+	}
+	
+	int contadorwhile1;
+	contadorwhile1 = 0;
+	while (contadorwhile1 < 6){
+		printf ("El valor del contadorwhile1 es %d\n", contadorwhile1);
+		contadorwhile1 = contadorwhile1 + 1;
+	}
 	
 	/*
-		HASTA PAGINA 72.
+		HASTA PAGINA 74.
 	*/
 	return 0;
 }
