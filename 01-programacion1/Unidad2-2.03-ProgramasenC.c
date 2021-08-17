@@ -108,9 +108,125 @@ main(){
 		printf ("El valor del contadorwhile1 es %d\n", contadorwhile1);
 		contadorwhile1 = contadorwhile1 + 1;
 	}
-	
+
 	/*
-		HASTA PAGINA 74.
+		DO WHILE
 	*/
+	int x4;
+	x4 = 0;
+	
+	do {
+		printf ( "El valor de i es ahora %d\n", x4 );
+		x4 = x4 + 1;
+		} while (x4 < 5);
+	
+
+
+
+	int opc;
+	printf("1. Derivadas\n");
+	printf("2. Limites\n");
+	printf("3. Integrales\n");
+	
+	do {
+		printf(" Teclear una opcion: ");
+		scanf("%d", &opc);
+		switch(opc)	{
+			case 1:
+				printf("\tOpcion 1 seleccionada\n\n");
+				break;
+			case 2:
+				printf("\tOpcion 2 seleccionada\n\n");
+				break;
+			case 3:
+				printf("\tOpcion 3 seleccionada\n\n");
+				break;
+			default:
+				printf("\tOpcion no disponible\n\n");
+				break;
+				}
+		} while( opc != 1 && opc != 2 && opc != 3);
+
+
+
+
+	int pato;
+	for (pato = 3 ; pato < 13 ; pato = pato + 1) 
+		{
+		switch (pato) {
+			case 3 : printf("pato vale tres\n"); break;
+			case 4 : printf("pato vale cuatro\n"); break;
+			case 5 :
+			case 6 :
+			case 7 :
+			case 8 :
+				printf("El valor de pato está entre 5 y 8\n");
+				break;
+			case 12 :
+				printf("pato vale doce\n");
+				break;
+			default : printf("Valor indefinido en una instrucción"
+				"case\n"); break;
+					} /* Fin de la instrucción switch */
+		} /* Fin del ciclo */
+
+
+	/*
+		BREAK - CONTINUE
+	*/
+	
+	// Muestra en pantalla los números del 0 al 10
+	int t;
+	for(t=0; t<100; t++) {
+		printf("%d ", t);
+		if (t==10) break;
+	}
+	
+	// El siguiente programa visualizará sólo los números pares
+	
+	int x;
+	for( x=0; x<20; x++) {
+		if (x%2)
+			continue;
+		printf("%d ",x);
+	}
+	
+	/* 
+	Se leen valores enteros y se procesan de acuerdo a las
+	siguientes condiciones: Si el valor que se lee es negativo, se desea imprimir un
+	mensaje de error y se abandona el ciclo. Si el valor es mayor a 100, se ignora y
+	se continúa leyendo, y si el valor es cero, se desea terminar el ciclo.
+	*/
+	
+	int valor;
+	while( scanf("%d", &valor) == 1 && valor != 0) {
+		if ( valor<0 ) {
+			printf("Valor no valido\n");
+			break;
+			/* Salir del ciclo */
+		}
+		if ( valor>100) {
+			printf("Valor no valido\n");
+			continue;
+			/* Pasar al principio del ciclo nuevamente */
+		}
+		printf("Se garantiza que el valor leído está entre 1 y 100");
+	}
+	
+	// Combinando ambos conceptos
+	
+	int xx2;
+	for(xx2 = 5 ; xx2 < 15 ; xx2 = xx2 + 1) {
+		if(xx2 == 8)
+		break;
+		printf("Este bucle se ejecuta cuando xx es menor de 8,"
+				"ahora xx es %d\n", xx2);
+		}
+	for(xx2 = 5 ; xx2 < 15 ; xx2 = xx2 + 1) {
+		if(xx2 == 8)
+		continue;
+		printf("Ahora xx es diferente de 8, xx tiene el valor de %d\n", xx2);
+	}
+	
 	return 0;
 }
