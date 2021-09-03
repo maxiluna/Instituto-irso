@@ -15,6 +15,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 main(){
 	/* 
@@ -66,8 +67,29 @@ main(){
 		TIPO STRING (Cadena de caracteres)
 	*/
 	
+	char hola51 [5] = { 'm', 'a', 'x', 'i', 0 };
+
+	printf ( "\nHola %s", hola51 );
 	
+	char hola52 [5] = "maxi";
+
+	printf ( "\nHola %s", hola52 );
+
+	char hola53 [5];
+	hola53[0] = 'm';
+	hola53[1] = 'a';
+	hola53[2] = 'x';
+	hola53[3] = 'i';
+	hola53[4] = 0;
 	
+	printf ( "\nHola %s", hola53 );
+	printf("\n------------------ 5 ------------------");
+	
+
+	/* 
+	6 - Tipos definidos por el programador
+		TIPO STRING (Cadena de caracteres)
+	*/
 	
 
 	/* 
