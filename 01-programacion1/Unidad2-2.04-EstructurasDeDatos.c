@@ -49,10 +49,29 @@ main(){
 	printf("\n%f", z3);
 	printf("\n------------------ 3 ------------------");
 
-
+	/* 
+	4 - Tipos definidos por el programador
+		Enumeración
+	*/
+	
+	enum disco { diskette, duro, cd=250, dvd, cinta };
+	printf("\n%d \n", cd);
+	
+	enum disco2 { diskette2=0, duro2=1, cd2=250, dvd2=251, cinta2=252 };
+	printf("%d %d %d %d %d \n", diskette2, duro2, cd2, dvd2, cinta2);
+	printf("\n------------------ 4 ------------------");
 
 	/* 
-	PAGINA 89
+	5 - Tipos definidos por el programador
+		TIPO STRING (Cadena de caracteres)
+	*/
+	
+	
+	
+	
+
+	/* 
+	PAGINA 91
 	*/
 	return 0;
 }
