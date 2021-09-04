@@ -14,6 +14,7 @@
   - [Unidad1-1.10-Estructuras anidadas - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad1-1.10-Estructuras%20anidadas.c)
   - [Unidad2-2.03-Programas en C - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.03-ProgramasenC.c)
   - [Unidad2-2.04-Estructura de datos - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.04-EstructurasDeDatos.c)
+  - [Unidad2-2.06-Operadores aritmeticos - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.06-OperadoresAritmeticos.c)
 
 - :computer: Teoría de Sistemas
 
