@@ -16,6 +16,7 @@
   - [Unidad2-2.04-Estructura de datos - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.04-EstructurasDeDatos.c)
   - [Unidad2-2.06-Operadores aritmeticos - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.06-OperadoresAritmeticos.c)
   - [Unidad2-2.07-Vectores - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.07-Vectores.c)
+  - [Unidad2-2.08-Matrices - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.08-Matrices.c)
 
 - :computer: Teoría de Sistemas
 
