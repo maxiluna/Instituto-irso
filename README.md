@@ -15,9 +15,7 @@
   - [Unidad2-2.03-ProgramasenC - (C)](../main/01-programacion1/Unidad2-2.03-ProgramasenC.c)
   - [Unidad2-2.04-Estructura de datos - (C)](../main/01-programacion1/Unidad2-2.04-EstructurasDeDatos.c)
 
-- :computer: Estructura de un Computador
-
-- :page_with_curl: Teoría de Sistemas
+- :computer: Teoría de Sistemas
 
 
 
