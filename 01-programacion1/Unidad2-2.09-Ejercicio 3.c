@@ -1,8 +1,8 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripción: MATRICES                     */
-/*                                           */
+/* DescripciÃ³n: EJERCITACIÃ“N                 */
+/*              Vectores y matrices          */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
@@ -20,8 +20,8 @@
 main(){
 	/* 
 	Ejercicio 3: Realizar un programa que permita imprimir las componentes de un
-	vector A de longitud g, cuyos elementos son caracteres. La impresión deberá
-	indicar el índice del vector y el valor de la componente. Los índices son enteros
+	vector A de longitud g, cuyos elementos son caracteres. La impresiÃ³n deberÃ¡
+	indicar el Ã­ndice del vector y el valor de la componente. Los Ã­ndices son enteros
 	y g=8. 
 
 	Nota: Los valores de las matrices y los vectores deben ser cargados desde
