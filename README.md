@@ -19,6 +19,12 @@
     - [Unidad2-2.06-Operadores aritmeticos - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.06-OperadoresAritmeticos.c)
     - [Unidad2-2.07-Vectores - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.07-Vectores.c)
     - [Unidad2-2.08-Matrices - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.08-Matrices.c)
+      - [Unidad2-2.09-Ejercicio 1 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.09-Ejercicio%201.c)
+      - [Unidad2-2.09-Ejercicio 2 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.09-Ejercicio%202.c)
+      - [Unidad2-2.09-Ejercicio 3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.09-Ejercicio%203.c)
+      - [Unidad2-2.09-Ejercicio 4 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.09-Ejercicio%204.c)
+      - [Unidad2-2.09-Ejercicio 5 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.09-Ejercicio%205.c)
+      - [Unidad2-2.09-Ejercicio 6 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.09-Ejercicio%206.c)
 
   - Unidad 3
   - Unidad 4
