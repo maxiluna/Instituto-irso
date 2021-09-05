@@ -1,8 +1,8 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripción: MATRICES                     */
-/*                                           */
+/* DescripciÃ³n: EJERCITACIÃ“N                 */
+/*              Vectores y matrices          */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
@@ -20,7 +20,7 @@
 main(){
 	/* 
 	Ejercicio 6: Realizar un programa que permita obtener la suma de dos
-	matrices X y J de dimensión axb (a=3 y b=4). Los elementos de la matriz son
+	matrices X y J de dimensiÃ³n axb (a=3 y b=4). Los elementos de la matriz son
 	reales. El resultado debe ser impreso. Realizar la suma componente a
 	componente. 
 	
