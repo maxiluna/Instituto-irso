@@ -1,8 +1,8 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripci�n: MATRICES                     */
-/*                                           */
+/* Descripción: EJERCITACIÓN                 */
+/*              Vectores y matrices          */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
