@@ -1,8 +1,8 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripción: MATRICES                     */
-/*                                           */
+/* DescripciÃ³n: EJERCITACIÃ“N                 */
+/*              Vectores y matrices          */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
@@ -21,8 +21,8 @@ main(){
 	/* 
 	Ejercicio 4: Realizar un programa que permita obtener el producto de dos
 	vectores A y B componente a componente, guardando el resultado en un nuevo
-	vector C. Los vectores tienen longitud 6, y los índices son enteros. Los
-	elementos del vector también son enteros. Imprimir el resultado. 
+	vector C. Los vectores tienen longitud 6, y los Ã­ndices son enteros. Los
+	elementos del vector tambiÃ©n son enteros. Imprimir el resultado. 
 
 	Nota: Los valores de las matrices y los vectores deben ser cargados desde
 	teclado y siempre impresos sobre la pantalla.
