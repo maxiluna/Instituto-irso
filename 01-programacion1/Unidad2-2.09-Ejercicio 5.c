@@ -1,7 +1,7 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripción: MATRICES                     */
+/* DescripciÃ³n: MATRICES                     */
 /*                                           */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
@@ -20,7 +20,7 @@
 main(){
 	/* 
 	Ejercicio 5: Realizar un programa que permita asignar la identidad a una
-	matriz R de dimensión mxm (considerar m=4). Los índices y las componentes
+	matriz R de dimensiÃ³n mxm (considerar m=4). Los Ã­ndices y las componentes
 	son enteros. La matriz identidad es la que tiene valor 1 en la diagonal principal
 	y 0 en el resto. 
 	1 0 0 0
@@ -33,7 +33,7 @@ main(){
 	
 	*/
 	
-	int x, y, booleano;
+	int x, y;
 	int matrizR[4][4];
 
 	for(x=0; x<4; ++x) {
