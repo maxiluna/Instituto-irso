@@ -15,6 +15,8 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+
 
 float encontprom(int num1, int num2) {
 	float promedio;
@@ -42,6 +44,30 @@ float enconprom(int tam, float lista[]) {
 	suma += lista[i];
 	return(suma/tam);
 }
+
+typedef struct {
+	int maxpasajeros;
+} jet;
+
+typedef struct {
+	int capac_elev;
+} helicoptero;
+
+typedef struct {
+	int maxcarga;
+} avioncarga;
+
+typedef union {
+	jet jetu;
+	helicoptero helicopterou;
+	avioncarga avioncargau;
+} transporteaereo;
+
+typedef struct {
+	int tipo;
+	int velocidad;
+	transporteaereo descripcion;
+} un_transporteaereo;
 
 int main() {
 	
@@ -77,16 +103,51 @@ int main() {
 
 	/* 
 		PROTOTIPOS DE FUNCIONES:
+		
+	Para declarar un prototipo de una función se indicará el tipo de dato que
+	regresará la función, el nombre de la función y entre paréntesis la lista del tipo
+	de los parámetros de acuerdo al orden que aparecen en la definición de la
+	función. Por ejemplo:
+	
+	int longcad(char []);
 	*/
-
-	printf("\n------------------ 4 ------------------\n");
 
 	/* 
 		UNIONES:
+	
+	Una unión es una variable la cual podría guardar (en momentos diferentes)
+	objetos de diferentes tamaños y tipos
 	*/
+	
+		/*
+		typedef struct {
+			int maxpasajeros;
+		} jet;
+		
+		typedef struct {
+			int capac_elev;
+		} helicoptero;
+		
+		typedef struct {
+			int maxcarga;
+		} avioncarga;
+		
+		typedef union {
+			jet jetu;
+			helicoptero helicopterou;
+			avioncarga avioncargau;
+		} transporteaereo;
+		
+		typedef struct {
+			int tipo;
+			int velocidad;
+			transporteaereo descripcion;
+		} un_transporteaereo;
+		
+		*/
 
-	printf("\n------------------ 5 ------------------\n");
 				
 	/*PAGINA 130*/
 	return 0;
 }
+
