@@ -1,8 +1,8 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripción: ESTRUCTURAS DE DATOS         */
-/*              COMPUESTAS.                  */
+/* Descripción: EJERCITACIÓN                 */
+/*              Vectores y matrices          */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
@@ -14,66 +14,67 @@
 */
 
 #include <stdio.h>
+#include <stdlib.h>
 
+
+main(){
 	/* 
-		ESTRUCTURAS O REGISTROS:
-	*/	
-struct
-{
-	char inicial; /* Letra inicial del apellido */
-	int edad; /* Edad */
-	int calificacion; /* Nota */
-} alumno, alumna;
-
-struct
-{
-	char inicial;
-	int edad;
-	int calificacion;
-} alumnos[12];
-
-int main()
-{
-	alumno.inicial = 'R';
-	alumno.edad = 15;
-	alumno.calificacion = 75;
-	alumna.edad = alumno.edad - 1; /* Ella es un año menor que él */
-	alumna.calificacion = 82;
-	alumna.inicial = 'H';
+	Ejercicio 6: Realizar un programa que permita obtener la suma de dos
+	matrices X y J de dimensión axb (a=3 y b=4). Los elementos de la matriz son
+	reales. El resultado debe ser impreso. Realizar la suma componente a
+	componente. 
 	
-	printf("%c tiene %d años y su calificación es de %d\n", alumna.inicial, alumna.edad, alumna.calificacion);
-	printf("%c tiene %d años y su calificación es de %d\n", alumno.inicial, alumno.edad, alumno.calificacion);
-
-	printf("\n------------------ 1 ------------------\n");
-
-
-	/* 
-		ESTRUCTURAS O REGISTROS:
+	Nota: Los valores de las matrices y los vectores deben ser cargados desde
+	teclado y siempre impresos sobre la pantalla.
+	
 	*/
 
-	int indice;
-	for (indice = 0; indice < 12; indice++)
-	{ 
-		alumnos[indice].inicial = 'A' + indice;
-		alumnos[indice].edad = 16;
-		alumnos[indice].calificacion = 84;
+	int x, y;
+	int matrizX[3][4], matrizJ[3][4];
+
+	for(x=0; x<3; ++x) {
+		for(y=0; y<4; ++y){
+			printf("Ingrese un valor para MatrizX[%i][%i]: ", x, y);
+			scanf("%i", &matrizX[x][y]);
+			}
 	}
-	alumnos[3].edad = alumnos[5].edad = 17;
-	alumnos[2].calificacion = alumnos[6].calificacion = 92;
-	alumnos[4].calificacion = 57;
 
-	/* Asignación de estructura solo en compiladores ANSI-C */
-	alumnos[10] = alumnos[4];
+	printf("\n");
 
-	for (indice = 0; indice < 12; indice++)
-	printf(
-		"%c tiene %d años y una calificación de %d\n", 
-		alumnos[indice].inicial, 
-		alumnos[indice].edad, 
-		alumnos[indice].calificacion);
+	for (x=0; x<3; ++x) {
+		for(y=0; y<4; ++y){
 
-	printf("\n------------------ 2 ------------------");
+			printf("Ingrese un valor para MatrizJ[%i][%i]: ", x, y);
+			scanf("%i", &matrizJ[x][y]);
+		}
+	}	
+
+	printf("\nMatrizX: \n\n");
+
+	for (x=0; x<3; x++) {
+		for (y=0; y<4; y++)
+		printf("%2d ", matrizX[x][y]);
+		printf("\n");
+	}
+
+	printf("\nMatrizJ: \n\n");
 	
-	/*PAGINA 122*/
+	for (x=0; x<3; x++) {
+		for (y=0; y<4; y++)
+		printf("%2d ", matrizJ[x][y]);
+		printf("\n");
+	}
+
+	printf("\nMatrizX + MatrizJ: \n\n");
+	
+	for (x=0; x<3; x++) {
+		for (y=0; y<4; y++)
+		printf("%2d ", matrizX[x][y]+matrizJ[x][y]);
+		printf("\n");
+	}
+	
+	printf("\n------------------ 6 ------------------");
+
+	/*PAGINA 112*/
 	return 0;
 }
