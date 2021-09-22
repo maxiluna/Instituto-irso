@@ -25,6 +25,13 @@ struct
 	int calificacion; /* Nota */
 } alumno, alumna;
 
+struct
+{
+	char inicial;
+	int edad;
+	int calificacion;
+} alumnos[12];
+
 int main()
 {
 	alumno.inicial = 'R';
@@ -36,5 +43,37 @@ int main()
 	
 	printf("%c tiene %d años y su calificación es de %d\n", alumna.inicial, alumna.edad, alumna.calificacion);
 	printf("%c tiene %d años y su calificación es de %d\n", alumno.inicial, alumno.edad, alumno.calificacion);
+
+	printf("\n------------------ 1 ------------------\n");
+
+
+	/* 
+		ESTRUCTURAS O REGISTROS:
+	*/
+
+	int indice;
+	for (indice = 0; indice < 12; indice++)
+	{ 
+		alumnos[indice].inicial = 'A' + indice;
+		alumnos[indice].edad = 16;
+		alumnos[indice].calificacion = 84;
+	}
+	alumnos[3].edad = alumnos[5].edad = 17;
+	alumnos[2].calificacion = alumnos[6].calificacion = 92;
+	alumnos[4].calificacion = 57;
+
+	/* Asignación de estructura solo en compiladores ANSI-C */
+	alumnos[10] = alumnos[4];
+
+	for (indice = 0; indice < 12; indice++)
+	printf(
+		"%c tiene %d años y una calificación de %d\n", 
+		alumnos[indice].inicial, 
+		alumnos[indice].edad, 
+		alumnos[indice].calificacion);
+
+	printf("\n------------------ 2 ------------------");
+	
+	/*PAGINA 122*/
 	return 0;
 }
