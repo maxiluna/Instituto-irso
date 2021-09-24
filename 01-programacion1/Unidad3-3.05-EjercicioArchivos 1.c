@@ -19,7 +19,7 @@
 
 /*
 	Ejercicio 1: Dado un archivo de registros de tres campos (legajo: entero;
-	sueldo: real; adicional: real), realizar un programa que permita actualizar el
+	sueldo: real; adicional: real), realizar un programa que permita actualizar el 
 	archivo, de modo que el sueldo sea incrementado en 0.5 veces el adicional. 
 	Los sueldos que se deben modificar son aquellos que cumplan con alguna de
 	las siguientes condiciones: 
