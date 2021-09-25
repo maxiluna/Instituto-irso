@@ -52,7 +52,7 @@ void imprimoarchivoA()
 
 void imprimoarchivoB()
 {
-	//0.5 veces el adicional
+	// Adiciona 0.5 veces el adicional si cumple:
 	//  -Legajo entre 1 y 5454, y el sueldo menor a $350. 
 	//	-Legajo entre 6000 y 9800, y el adicional sea menor a $200. 
 	//	-Legajo mayor a 15300.
@@ -90,15 +90,17 @@ void guardoenarchivo() {
     FILE* fp;
 	int i;
 	fp = fopen("Unidad3-3.05-EjercicioArchivos 1.txt", "w");
+	// Guardo en archivo cada posicion del vector 
 	for(i=0;i<10;i++)
 	    {
 			fprintf(fp, "%d;%2f;%2f\n", archivoB[i].legajo, archivoB[i].sueldo, archivoB[i].adicional);
 		}
     fclose(fp);
+    printf("\n*****************************************\n");
+    printf("*********** Archivo Actualizado *********\n");
+    printf("*****************************************\n");
 }
 
-
-int x;
 
 int main(void)
 {
@@ -109,9 +111,10 @@ int main(void)
       return 1;
     }
 	int l=0;
+	printf("----------- Imprimo datos de archivo TXT -------- \n");
     while (fgets(buffer, MAX_LEN - 1, fp))
     {
-	        // Remove trailing newline
+	        // Pasa a proxima linea
 	        buffer[strcspn(buffer, "\n")] = 0;
 	        printf("%s\n", buffer);
 	        // 
@@ -138,7 +141,7 @@ int main(void)
 		    // Guardo cada dato en su respectivo campo de estructura
 		    for(i=0;i<ctr;i++)
 		    {
-		    	printf("%s\n",newString[i]);
+		    	// printf("%s\n",newString[i]);
 		    	if (i==0){
 		    		// Convierto String en Entero
 		    		int numero=atoi(newString[i]);
@@ -157,8 +160,11 @@ int main(void)
 			l+=1;
 	 	}
     fclose(fp);
+    printf("\n");
+    printf("----------- Imprimo datos de archivo Original en estructura A de 10 posiciones -------- \n");
     imprimoarchivoA();
     printf("\n");
+    printf("----------- Imprimo datos validados de archivo en estructura B de 10 posiciones -------- \n");
     imprimoarchivoB();
     guardoenarchivo();
     return 0;
