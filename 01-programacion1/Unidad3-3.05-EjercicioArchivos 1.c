@@ -92,7 +92,7 @@ void guardoenarchivo() {
 	fp = fopen("Unidad3-3.05-EjercicioArchivos 1.txt", "w");
 	for(i=0;i<10;i++)
 	    {
-			fprintf(fp, "%d;%f;%f\n", archivoB[i].legajo, archivoB[i].sueldo, archivoB[i].adicional);
+			fprintf(fp, "%d;%2f;%2f\n", archivoB[i].legajo, archivoB[i].sueldo, archivoB[i].adicional);
 		}
     fclose(fp);
 }
@@ -158,7 +158,8 @@ int main(void)
 	 	}
     fclose(fp);
     imprimoarchivoA();
-   	printf("\n");
+    printf("\n");
     imprimoarchivoB();
+    guardoenarchivo();
     return 0;
 }
