@@ -41,10 +41,25 @@ void imprimoarchivoA()
 	char palabraT[] = "T";
 	char palabraZA[] = "ZA";
 	
+	char validaH[1];
+	char validaT[1];
+	char validaZA[2];
+	
+	int validoletraH, validoletraT, validoletraZA;
+	
 	for(i=0;i<20;i++)
 	    {
-	    	printf(()archivoA[i].codigo)[0]);
-	    	if(i>0){
+	    	case strcpy(validaH, archivoA[i].codigo);
+	    	strcpy(validaT, archivoA[i].codigo);
+	    	strcpy(validaZA, archivoA[i].codigo);
+	   	    //validaH2[0] = toupper(validaH[0]);
+	    	//printf(" %s\n", validaH2);
+	    	//printf(" %s\n", palabraH);
+			validoletraH = strncmp(palabraH, validaH, 1);
+			validoletraT = strncmp(palabraT, validaT, 1);
+			validoletraZA = strncmp(palabraZA, validaZA, 2);
+	    	//printf(" %d\n", validoletra);
+	    	if(validoletraH==0 || validoletraT==0 || validoletraZA==0){
 	    		printf("Codigo: %s, Cantidad: %d\n",
 				archivoA[i].codigo,
 				archivoA[i].cantidad);
@@ -111,4 +126,3 @@ int main(void)
     imprimoarchivoA();
     return 0;
 }
-
