@@ -26,7 +26,7 @@
       - [Unidad2-2.09-Ejercicio 6 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad2-2.09-Ejercicio%206.c)
 
   - Unidad 3
-      - [Unidad3-3.01-EstructurasRegistros - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad3-3.01-Unidad3-3.01-EstructurasRegistros.c)
+      - [Unidad3-3.01-EstructurasRegistros - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad3-3.01-EstructurasRegistros.c)
   - Unidad 4
   - Unidad 5
 
