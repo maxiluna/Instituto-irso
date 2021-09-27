@@ -3,7 +3,7 @@
 
 <h4 align="left">Materias de primer año</h4>
 
-- :1234: Algebra
+- :1234: Algebra 
 
 - 👨‍💻 Programación I
   - Unidad 1
