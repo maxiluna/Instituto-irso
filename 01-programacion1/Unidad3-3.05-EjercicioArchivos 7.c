@@ -44,7 +44,6 @@ void imprimoarchivoA()
 	
 	for(i=0;i<20;i++)
 	    {
-	   	    //validaH2[0] = toupper(validaH[0]);
 	    	//printf(" %s\n", validaH2);
 	    	//printf(" %s\n", palabraH);
 			validoletraH = strncmp(palabraH, archivoA[i].codigo, 1);
