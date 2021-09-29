@@ -23,7 +23,7 @@
 int a, resultado=0;
 
 void calcula_serie(int n) {
-	// Si valorn es menor a cero ingresa en la recursion
+	// Si valorn es mayor a cero ingresa en la recursion
 	if (n > 0)
 		printf ("Sumo %d + resultado previo: %d\n", n, resultado),
 		resultado += n,
