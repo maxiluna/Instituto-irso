@@ -56,8 +56,8 @@ void calcula_serie(double valora, double valorn) {
 	// Sumo unica vez + 1
 	if (valorainicial==1)
 		valorainicial=0,
-		printf ( "Calculo = 'a': %.2f + 1\n", valora),
-		calculofinal += 1,
+		printf ( "Calculo += 'a': %.2f + 1\n", valora),
+		calculofinal += valora+1,
 		printf ( "Resultado Parcial 3 = %.2f\n", calculofinal);
 }
 
