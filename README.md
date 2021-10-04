@@ -40,6 +40,17 @@
         - [Unidad3-3.05-EjercicioArchivos 7 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad3-3.05-EjercicioArchivos%207.c)
   - Unidad 4
     - [Unidad4-4.01-Recursividad - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.01-Recursividad.c)
+      - [Unidad4-4.02-Ejercicio1 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio1.c)
+      - [Unidad4-4.02-Ejercicio2 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio2.c)
+      - [Unidad4-4.02-Ejercicio3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio3.c)
+      - [Unidad4-4.02-Ejercicio4 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio4.c)
+      - [Unidad4-4.02-Ejercicio5 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio5.c)
+      - [Unidad4-4.02-Ejercicio6 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio6.c)
+      - [Unidad4-4.02-Ejercicio7 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio7.c)
+      - [Unidad4-4.02-Ejercicio8 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio8.c)
+      - [Unidad4-4.02-Ejercicio9 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio9.c)
+      - [Unidad4-4.02-Ejercicio10 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio10.c)
+      - [Unidad4-4.02-Ejercicio11 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio11.c)
   - Unidad 5
 
 
