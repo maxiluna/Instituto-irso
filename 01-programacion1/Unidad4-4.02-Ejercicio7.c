@@ -29,13 +29,13 @@ calculopotencia() {
 	scanf("%lf", &a);
 	printf("Ingrese numero n: ");
 	scanf("%lf", &n);
-	// Verifico el largo del string e ingreso en recursion.
+	// Verifico a / n distinto o menor a cero.
 	if (a <= 0 || n <= 0){
 		printf("Error, ingrese nuevamente...\n\n");
 		// Llama a la misma funcion
 		calculopotencia();
 	} else {
-	// Exponente por unica vez - a^n (pow(valora, valorn))
+	// Exponente por unica vez - a^n (pow(a, n))
 	printf ( "Calculo = 'a': %.f exponente 'n': %.f\n", a, n );
 	resultado = pow(a, n);
 	}
