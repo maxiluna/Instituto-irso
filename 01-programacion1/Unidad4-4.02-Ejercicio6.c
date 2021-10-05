@@ -22,38 +22,45 @@
 	letras ‘A’ o ‘a’ hay en un string de n caracteres.
 */
 
-char string[] = "";
-char letra1[] = "A";
-char letra2[] = "a";
-
+char string[40] = "";
+char letraenposicion[1] = "";
 
 int contador=0;
-int validoletra;
+int validoletra=1;
+int n;
 
-
-cuentoletras(int n, int contador) {
-	// Si n es menor al largo del vector ingresa en la recursion
-	if (n <= strlen(string))
+void cuentoletras(n) {
+	// Copio posicion de string en letra a validar
+	letraenposicion[0] = string[n];
+	//printf("Imprimo letraenposicion [%c]\n ", string[n]);
+	// Valido letra en posicion contra A - a
+	if((validoletra=strcmp(letraenposicion, "A"))==0){
+	    sumoconteo();
+	} else if ((validoletra=strcmp(letraenposicion, "a"))==0){
+		sumoconteo();
+	}
+	// Verifico el largo del string e ingreso en recursion.
+	if (n < strlen(string))
 		printf("Imprimo posicion [%c]\n ", string[n]),
 		n++,
-		contador++,
-		// Llama a la misma funcion con valorn-1
-		cuentoletras(n, contador),
-		printf("String: %d\n", contador);
-		return contador;
+		// Llama a la misma funcion con valorn n+1
+		cuentoletras(n);
+}
+
+sumoconteo() {
+	// Adiciono uno a el contador de letras A / a
+	contador++;
 }
 
 int main()  
 {
-	
 	printf("Ingrese palabra: ");
 	scanf("%s", &string);
 	// Llama a la funcion cuentoletras
-	contador = cuentoletras(0, 0);
+	cuentoletras(0);
 	printf("------------------------------------\n");
 	printf("String: %s\n", string);
-
-	printf("String: %d\n", contador);
+	printf("El numero de letras a / A es = %d\n", contador);
 
     return 0;
 } 
