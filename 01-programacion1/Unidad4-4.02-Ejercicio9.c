@@ -14,6 +14,7 @@
 */
 
 #include <stdio.h> 
+#include <stdlib.h>
 
 /*
 	Ejercicio 9: 
@@ -34,17 +35,13 @@ struct
 	float tpq; //toneladasporquintal
 } vectorA[72]; // Indico largo de vector
 
+int n, x=0;
+
 char palabra[] = "Capullo-Calidad1";
 
 void calculopromedio() {
 	// https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/
-	// Copio posicion de string en letra a validar
-	printf("Ingrese numero a: ");
-	scanf("%f", &a);
-	printf("Ingrese numero b: ");
-	scanf("%f", &b);
 	// Verifico a menor a cero y b mayor a 0.
-	// 
 	if (a >= 0 || b < 0){
 		printf("Error, ingrese nuevamente...\n\n");
 		// Llama a la misma funcion
@@ -56,11 +53,24 @@ void calculopromedio() {
 	}
 }
 
+void generodatosrandom(int maximo, int n) {
+	// Copio posicion de string en letra a validar
+	n++
+	if (n < maximo){
+		printf("Error, ingrese nuevamente...\n\n"),
+		vectorA[n].tipo=,
+		vectorA[n].tpq,
+		// Llama a la misma funcion
+		generodatosrandom(72, n++);
+	}
+}
+
 int main()  
 {
 
-	// Llama a la funcion calculopotencia
+	// Genero datos aleatorios
+	generodatosrandom(72, 0);
+	// Funcion Calcula promedio
 	calculopromedio();
-	// printf("El producto de a*n es = %.f\n", resultado);
     return 0;
 } 
