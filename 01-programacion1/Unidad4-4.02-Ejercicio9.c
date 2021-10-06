@@ -15,6 +15,8 @@
 
 #include <stdio.h> 
 #include <stdlib.h>
+#include <string.h>
+#define MAX_LEN 256
 
 /*
 	Ejercicio 9: 
@@ -35,42 +37,110 @@ struct
 	float tpq; //toneladasporquintal
 } vectorA[72]; // Indico largo de vector
 
-int n, x=0;
-
+int i, n, validopalabra, contador_coincidencias, largo_vector=72;
 char palabra[] = "Capullo-Calidad1";
+char buffer[MAX_LEN];
+float acumulado, promedio;
 
-void calculopromedio() {
-	// https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/
-	// Verifico a menor a cero y b mayor a 0.
-	if (a >= 0 || b < 0){
-		printf("Error, ingrese nuevamente...\n\n");
+
+void calculopromedio(int n) {
+	// Verifico si el tipo es "Capullo-Calidad1".
+	if((validopalabra=strcmp(vectorA[n].tipo, palabra))==0){
+		n++,
+		acumulado += vectorA[n].tpq,
+		printf("Acumulado: %.2f \n", acumulado),
 		// Llama a la misma funcion
-		calculopotencia();
-	} else {
-	// Producto de a * b
-	printf ( "Calculo = 'a': %.f exponente 'n': %.f\n", a, b );
-	resultado = a*b;
-	}
+		calculopromedio(n);
+	} else if (((validopalabra=strcmp(vectorA[n].tipo, palabra))!=0) && n<largo_vector){
+		n++,
+		calculopromedio(n);
+	} else if (n=largo_vector){
+		printf("\nPomedio de toneladas por quintal - \n"),
+		printf("  (Acumulado = %.2f / Cantidad = %d)\n", acumulado, contador_coincidencias),
+		printf("producidos del algodon tipo - Capullo-Calidad1: "),
+		promedio = acumulado / contador_coincidencias,
+		printf("%.2f\n", promedio);
+	}	
 }
 
-void generodatosrandom(int maximo, int n) {
-	// Copio posicion de string en letra a validar
-	n++
-	if (n < maximo){
-		printf("Error, ingrese nuevamente...\n\n"),
-		vectorA[n].tipo=,
-		vectorA[n].tpq,
-		// Llama a la misma funcion
-		generodatosrandom(72, n++);
-	}
-}
 
-int main()  
+void imprimo_coincidentes(int n)
 {
+	for(i=n;i<largo_vector;i++)
+	    {
+	    	if((validopalabra=strcmp(vectorA[i].tipo, palabra))==0){
+		    	printf("Posicion: %d - Tipo: %s, TPQ: %f\n",
+		    		i,
+					vectorA[i].tipo,
+					vectorA[i].tpq);
+				contador_coincidencias++;
+			}
+		}
+	printf("Cantidad de coincidencias %d \n", contador_coincidencias);
+}
 
-	// Genero datos aleatorios
-	generodatosrandom(72, 0);
+
+int main()
+{
+	// Creo un archivo txt para cargar los datos de las 72 posiciones
+	FILE* fp;
+    fp = fopen("Unidad4-4.02-Ejercicio9.txt", "r");
+    if (fp == NULL) {
+      perror("Error: ");
+      return 1;
+    }
+	int l=0;
+	//printf("----------- Imprimo datos de archivo TXT -------- \n");
+    while (fgets(buffer, MAX_LEN - 1, fp))
+    {
+	        // Pasa a proxima linea
+	        buffer[strcspn(buffer, "\n")] = 0;
+	        // Descomentar proxima linea para dar salida a cada linea
+			//printf("%s\n", buffer);
+	        // 
+	        char str1[100];
+	    	char newString[72][72]; 
+	   	    int i,j,ctr;
+	
+	        j=0; ctr=0;
+		    for(i=0;i<=(strlen(buffer));i++)
+		    {
+		        // Si encuentra punto y coma o NULL, asigna NULL dentro de newString[ctr]
+		        if(buffer[i]==';' || buffer[i]=='\0')
+		        {
+		            newString[ctr][j]='\0';
+		            ctr++;  //Proxima palabra
+		            j=0;    //Para la proxima palabra, index es 0
+		        }
+		        else
+		        {
+		            newString[ctr][j]=buffer[i];
+		            j++;
+		        }
+		    }
+		    // Guardo cada dato en su respectivo campo de estructura
+		    for(i=0;i<ctr;i++)
+		    {
+		    	// printf("%s\n",newString[i]);
+		    	if (i==0){
+		    		// Convierto String en Entero
+		    		strcpy(vectorA[l].tipo, newString[i]);
+		    	} else if (i==1){
+					// Convierto String en Flotante
+		    		int numero=atof(newString[i]);
+					vectorA[l].tpq = numero;
+				}
+			}
+			// Adiciono una unidad a la posicion del vector
+			l+=1;
+	 	}
+    fclose(fp);
+    printf("\n");
+    printf("----------- Imprimo datos coincidentes de archivo -------- \n");
+    // Funcion Imprime coincidentes
+    imprimo_coincidentes(0);
+    printf("----------- Calculo el promedio de posiciones coincidentes -------- \n");
 	// Funcion Calcula promedio
-	calculopromedio();
+	calculopromedio(0);
     return 0;
 } 
