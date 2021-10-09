@@ -1,3 +1,18 @@
+/*********************************************/
+/* Materia: Programacion 1                   */
+/*                                           */
+/* Descripción: EJERCICIOS                   */
+/*              PUNTEROS                     */
+/*                                           */
+/* Autor: Maximiliano Luna                   */
+/*                                           */
+/*********************************************/
+
+/* Compiladores Online
+	https://www.onlinegdb.com/online_c_compiler
+	https://www.programiz.com/c-programming/online-compiler/
+*/
+
 /*
 Los punteros permiten manipular la memoria del ordenador. 
 Todo dato está almacenado a partir de una dirección de memoria. 
