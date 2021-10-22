@@ -73,4 +73,3 @@
    
    <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://github.com/maxiluna/maxiluna/blob/main/visual-studio-code.svg" alt="visualstudio" width="40" height="40"/> </a>
 </p>
-
