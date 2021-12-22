@@ -13,9 +13,7 @@ int main(){
 		FILE* fp;
 		fp = fopen("EjemploFinal07.txt", "w");
 		fprintf(fp, "\n%d\n", x);
-		printf(" %d\r\n", x);
 		fclose(fp);
-		printf("\nfclose(fp)");
 	} while ((x!=13)||(x!=15));
 	printf("\nFin");
 	return 0;
