@@ -23,10 +23,10 @@ int main(){
 	printf("\n Ingrese un numero para 'B': ");
 	scanf("%i", &B);
 	// Ingreso por teclado x, y
-	if ((B!=0)&&(A<B)){
-		printf("B es igual a cero o A es menor a B");
-	} else {
+	if ((B!=0)&&(A>B)){
 		invocarfuncion(A, B);
+	} else {
+		printf("B es igual a cero o A es menor a B");
 	}
 	return 0;
 }
