@@ -1,14 +1,4 @@
-[Contenidos](../Contenidos.md) \| [Anterior (3 Diseño de algoritmos recursivos)](03_Diseno_Recursivo.md) \| [Próximo (5 Regresión lineal)](05_Regresion_Lineal.md)
-
-# 11.4 Práctica de Recursión
-
-## Ejercicios
-
-
-### Ejercicio 11.2: Números triangulares
-Escribí una función que calcule recursivamente el n-ésimo número
-triangular (es decir, el número *1 + 2 + 3 + ... + n*).
-
+[Contenidos](../../README.md)
 
 - 👨‍💻 Programación I
   - ### Unidad 1
@@ -57,7 +47,11 @@ triangular (es decir, el número *1 + 2 + 3 + ... + n*).
       - [Unidad4-4.02-Ejercicio10 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio10.c)
       - [Unidad4-4.02-Ejercicio11 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio11.c)
   - ### Unidad 5
+      - [Unidad5-5.09-Ejercicio1 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio9.c)
+      - [Unidad5-5.09-Ejercicio2 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio10.c)
+      - [Unidad5-5.09-Ejercicio3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](../main/01-programacion1/Unidad4-4.02-Ejercicio11.c)
+  - ### Ejemplos de Finales
 
 
-[Contenidos](../Contenidos.md) \| [Anterior (3 Diseño de algoritmos recursivos)](03_Diseno_Recursivo.md) \| [Próximo (5 Regresión lineal)](05_Regresion_Lineal.md)
+[Contenidos](../../README.md)
 
