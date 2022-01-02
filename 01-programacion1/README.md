@@ -1,4 +1,4 @@
-[Contenidos](../../README.md)
+[Contenidos](https://github.com/maxiluna/Instituto-irso)
 
 - 👨‍💻 Programación I
   - ### Unidad 1
@@ -53,5 +53,5 @@
   - ### Ejemplos de Finales
 
 
-[Contenidos](../../README.md)
+[Contenidos](https://github.com/maxiluna/Instituto-irso)
 
