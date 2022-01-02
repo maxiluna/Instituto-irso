@@ -51,6 +51,17 @@
       - [Unidad5-5.09-Ejercicio2 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad4-4.02-Ejercicio10.c)
       - [Unidad5-5.09-Ejercicio3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad4-4.02-Ejercicio11.c)
   - ### Ejemplos de Finales
+      - [Ejercicio 01 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal01.c)
+      - [Ejercicio 02 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal02.c)
+      - [Ejercicio 03 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal03.c)
+      - [Ejercicio 04 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal04.c)
+      - [Ejercicio 05 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal05.c)
+      - [Ejercicio 06 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal06.c)
+      - [Ejercicio 07 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal07.c)
+      - [Ejercicio 08 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal08.c)
+      - [Ejercicio 09 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal09.c)
+      - [Ejercicio 10 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal10.c)
+      - [Ejercicio 11 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal11.c)
 
 
 [Contenidos](https://github.com/maxiluna/Instituto-irso)
