@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Soy Maxi :last_quarter_moon_with_face:</h1>
 <h3 align="center">Esta es una Colección de ejercicios y transformación de teoría de la carrera "Analista de Sistemas" del Instituto Raul Scalabrini Ortiz - IRSO</h3>
 
-<h4 align="left">Materias de primer año</h4>
+<h4 align="left">Primer año</h4>
 
 - :1234: Algebra 
 - 👨‍💻 [Programación I](https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/README.md)
 - :computer: Teoría de Sistemas
 
-<h4 align="left">Materias de primer año</h4>
+<h4 align="left">Segundo año</h4>
 
 - Analisis Matematico
 - 👨‍💻 Programación II
