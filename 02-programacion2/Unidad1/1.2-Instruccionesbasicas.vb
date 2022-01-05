@@ -2,7 +2,7 @@ Imports System
 '***********************************************************
 ' Materia: Programacion 2
 ' Descripción: 1.2.- INSTRUCCIONES BASICAS EN VISUAL BASIC
-' Autor: Maximiliano Luna
+' Autor: Maximiliano Luna 
 '
 ' Compilador Online: 
 ' https://www.onlinegdb.com/online_vb_compiler
