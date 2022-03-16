@@ -2,7 +2,7 @@
 
 - Descarga de editor en lenguaje C
   - https://sourceforge.net/projects/orwelldevcpp/
-- Descarga de Add-on para debuguearm, condfigurable desde el menu Herramientas -- Opciones de compilador
+- Descarga de Add-on para debug, configurable desde el menu Herramientas -- Opciones de compilador
   - https://sourceforge.net/projects/mingw/files/Installer/
 - Agrego archivo zlib1.dll por si surge algun error.
   - https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/zlib1.dll
