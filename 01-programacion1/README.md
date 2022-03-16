@@ -1,15 +1,5 @@
 [Volver a Contenidos](https://github.com/maxiluna/Instituto-irso)
 
-- Descarga de editor en lenguaje C
-  - https://sourceforge.net/projects/orwelldevcpp/
-- Descarga de Add-on para debug, configurable desde el menu Herramientas -- Opciones de compilador
-  - https://sourceforge.net/projects/mingw/files/Installer/
-- Agrego archivo zlib1.dll por si surge algun error.
-  - https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/zlib1.dll
-- Compiladores online
-  - https://www.onlinegdb.com/online_c_compiler
-  - https://www.programiz.com/c-programming/online-compiler/
-
 
 - 👨‍💻 Programación I
   - ### Unidad 1 - INTRODUCCIÓN A LA PROGRAMACIÓN
@@ -73,6 +63,17 @@
       - [Ejercicio 09 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal09.c)
       - [Ejercicio 10 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal10.c)
       - [Ejercicio 11 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal11.c)
+
+
+- Descarga de editor en lenguaje C
+  - https://sourceforge.net/projects/orwelldevcpp/
+- Descarga de Add-on para debug, configurable desde el menu Herramientas -- Opciones de compilador
+  - https://sourceforge.net/projects/mingw/files/Installer/
+- Agrego archivo zlib1.dll por si surge algun error.
+  - https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/zlib1.dll
+- Compiladores online
+  - https://www.onlinegdb.com/online_c_compiler
+  - https://www.programiz.com/c-programming/online-compiler/
 
 
 [Volver a Contenidos](https://github.com/maxiluna/Instituto-irso)
