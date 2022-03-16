@@ -1,16 +1,14 @@
 [Volver a Contenidos](https://github.com/maxiluna/Instituto-irso)
 
-Descarga de editor en lenguaje C
-	https://sourceforge.net/projects/orwelldevcpp/
-
-Descarga de Add-on para debuguearm, condfigurable desde el menu Herramientas -- Opciones de compilador
-	https://sourceforge.net/projects/mingw/files/Installer/
-Agrego archivo zlib1.dll por si surge algun error.
-	https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/zlib1.dll
-
-Compiladores online
-	https://www.onlinegdb.com/online_c_compiler
-	https://www.programiz.com/c-programming/online-compiler/
+- Descarga de editor en lenguaje C
+  - https://sourceforge.net/projects/orwelldevcpp/
+- Descarga de Add-on para debuguearm, condfigurable desde el menu Herramientas -- Opciones de compilador
+  - https://sourceforge.net/projects/mingw/files/Installer/
+- Agrego archivo zlib1.dll por si surge algun error.
+  - https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/zlib1.dll
+- Compiladores online
+  - https://www.onlinegdb.com/online_c_compiler
+  - https://www.programiz.com/c-programming/online-compiler/
 
 
 - 👨‍💻 Programación I
