@@ -1,8 +1,8 @@
 /*********************************************/
 /* Materia: Programacion 1	                 */
 /*                                           */
-/* Descripción: ESTRUCTURAS DE               */
-/*              REPETICIÓN                   */
+/* DescripciÃ³n: ESTRUCTURAS DE               */
+/*              REPETICIÃ“N                   */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
@@ -14,7 +14,6 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -25,7 +24,7 @@ int main()
 	*/
 	printf("\nWHILE: Ingrese un numero menor a 20\n");
 	scanf("%d", &x);
-	while (x < 25) {
+	while (x < 20) {
 		printf("%d\n", x);
 		x = x + 1;
 	}
