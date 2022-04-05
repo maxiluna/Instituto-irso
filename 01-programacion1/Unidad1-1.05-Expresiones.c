@@ -13,7 +13,6 @@
 	https://www.programiz.com/c-programming/online-compiler/
 */
 
-#include <math.h>
 #include <stdio.h>
 
 int main()
