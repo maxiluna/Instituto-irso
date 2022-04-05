@@ -1,8 +1,8 @@
 /*********************************************/
 /* Materia: Programacion 1	                 */
 /*                                           */
-/* Descripción: ESTRUCTURAS DE               */
-/*              DE SELECCIÓN                 */
+/* DescripciÃ³n: ESTRUCTURAS DE               */
+/*              DE SELECCIÃ“N                 */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
 /*                                           */
@@ -14,7 +14,6 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -30,7 +29,7 @@ int main()
 	scanf("%i", &x);
 	if (x>0){
 		x += 10;
-		printf("El numero final es: %i", x);
+		printf("El numero final es: %d", x);
 	}
 	/* 
 		Doble:
@@ -39,9 +38,9 @@ int main()
 	printf("\n\nIngrese un numero, se verificara si es menor o mayor igual a 10\n");
 	scanf("%i", &y);
 	if (y>=10){
-		printf("El numero %i es mayor o igual a 10", y);
+		printf("El numero %d es mayor o igual a 10", y);
 	} else {
-		printf("El numero %i es menor a 10", y);
+		printf("El numero %d es menor a 10", y);
 	}
 	
 	/* 
