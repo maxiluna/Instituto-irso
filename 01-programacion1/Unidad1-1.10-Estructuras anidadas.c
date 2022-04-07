@@ -1,7 +1,7 @@
 /*********************************************/
 /* Materia: Programacion 1	                 */
 /*                                           */
-/* Descripción: ESTRUCTURAS                  */
+/* DescripciÃ³n: ESTRUCTURAS                  */
 /*              ANIDADAS                     */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
@@ -14,7 +14,6 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
