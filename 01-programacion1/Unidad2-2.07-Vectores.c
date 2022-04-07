@@ -1,7 +1,7 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripción: VECTORES                     */
+/* DescripciÃ³n: VECTORES                     */
 /*                                           */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
@@ -14,17 +14,15 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
-
 
 main(){
 	/* 
 	Un vector es una estructura donde cada uno de los elementos 
 	que la componen son del mismo tipo de datos. 
-	Esta estructura tiene un tamaño fijo, es decir, 
+	Esta estructura tiene un tamaÃ±o fijo, es decir, 
 	una cantidad finita y determinada de elementos.
 	
-	tipo nombre_arr [ tamaño ]
+	tipo nombre_arr [ tamaÃ±o ]
 	*/
 	
 	int x=0, y=0;
