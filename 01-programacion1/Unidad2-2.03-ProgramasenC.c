@@ -13,6 +13,9 @@
 	https://www.programiz.com/c-programming/online-compiler/
 */
 
+/* Descripción: INSTRUCCIONES                */
+/*              BASICAS EN C.                */
+
 #include <stdio.h>
 
 main(){
@@ -32,7 +35,7 @@ main(){
 			%f flotantes
 	*/
 	float varfloat1, varfloat2, varfloat3;
-	int vara, varb, varc, vard, vare;
+	int x, vara, varb, varc, vard, vare;
 	char varletra1, varletra2;
 	
 	varfloat1 = 1.12;
@@ -181,7 +184,6 @@ main(){
 	
 	// El siguiente programa visualizará sólo los números pares
 	
-	int x;
 	for( x=0; x<20; x++) {
 		if (x%2)
 			continue;
