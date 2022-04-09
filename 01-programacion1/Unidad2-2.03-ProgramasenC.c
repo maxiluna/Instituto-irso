@@ -68,7 +68,7 @@ main(){
 	if (x==1){
 		printf ("uno \n\n");
 	}else{
-		printf ("Valor ingresado diferente de 1 %d \n\n", &x);
+		printf ("Valor ingresado diferente de 1 %d \n\n", x);
 	}
 	
 	/*
