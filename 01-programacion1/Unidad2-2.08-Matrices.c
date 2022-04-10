@@ -1,7 +1,7 @@
 /*********************************************/
 /* Materia: Programacion 1                   */
 /*                                           */
-/* Descripción: MATRICES                     */
+/* DescripciÃ³n: MATRICES                     */
 /*                                           */
 /*                                           */
 /* Autor: Maximiliano Luna                   */
@@ -14,20 +14,18 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
-
 
 main(){
 	/* 
-	La matriz es una estructura estática al igual que el vector (esto es, que no varía su tamaño
-	durante la ejecución del programa – lo que si varía es el contenido de las posiciones que 
-	tiene el vector o la matriz pero no varía la cantidad de elementos que ellos tienen). 
+	La matriz es una estructura estÃ¡tica al igual que el vector (esto es, que no varÃ­a su tamaÃ±o
+	durante la ejecuciÃ³n del programa â€“ lo que si varÃ­a es el contenido de las posiciones que 
+	tiene el vector o la matriz pero no varÃ­a la cantidad de elementos que ellos tienen). 
 	
 	Es decir, que una vez que se define la cantidad de elementos que tiene una matriz, 
-	esa cantidad no varía durante el tiempo de corrida del programa. 
+	esa cantidad no varÃ­a durante el tiempo de corrida del programa. 
 	
 	Los elementos de la matriz son todos del mismo tipo. 
-	Los índices son de un tipo discreto ordinal. 
+	Los Ã­ndices son de un tipo discreto ordinal. 
 	
 	*/
 	
