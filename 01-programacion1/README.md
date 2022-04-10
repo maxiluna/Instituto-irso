@@ -48,9 +48,9 @@
       - [Unidad4-4.02-Ejercicio10 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad4-4.02-Ejercicio10.c)
       - [Unidad4-4.02-Ejercicio11 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad4-4.02-Ejercicio11.c)
   - ### Unidad 5 - PUNTEROS
-      - [Unidad5-5.09-Ejercicio1 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad4-4.02-Ejercicio9.c)
-      - [Unidad5-5.09-Ejercicio2 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad4-4.02-Ejercicio10.c)
-      - [Unidad5-5.09-Ejercicio3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad4-4.02-Ejercicio11.c)
+      - [Unidad5-5.09-Ejercicio1 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad5-5.09-Ejercicio1.c)
+      - [Unidad5-5.09-Ejercicio2 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad5-5.09-Ejercicio2.c)
+      - [Unidad5-5.09-Ejercicio3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad5-5.09-Ejercicio3.c)
   - ### Ejemplos de ejercicios en Finales
       - [Ejercicio 01 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal01.c)
       - [Ejercicio 02 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](EjemploFinal02.c)
