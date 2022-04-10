@@ -14,8 +14,6 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 /*
 	Ejercicio 4: 
@@ -40,17 +38,19 @@ int main() {
 		printf("\nIngrese nombre %i - :", indice+1);
 		fflush(stdin); /* Limpia variable de ingreso */
 		gets(vectorB[indice].nombre);
-		printf("Ingrese nota (numero entero):");
+		printf("Ingrese nota (numero entero): ");
 		scanf("%i", &vectorB[indice].nota);
 	}
 
 	/* Impresion de datos */
+	printf("\n Se listan las notas superiores a 7:\n");
+
 	for (indice=0; indice<5; indice++)
 	if (vectorB[indice].nota>7){
 		printf(
-		"%s tiene una nota de %d\n", 
-		vectorB[indice].nombre, 
-		vectorB[indice].nota);
+			" - %s tiene una nota de %d\n", 
+			vectorB[indice].nombre, 
+			vectorB[indice].nota);
 	}
 	return 0;
 }
