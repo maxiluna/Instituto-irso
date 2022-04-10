@@ -14,8 +14,6 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
-
 
 main(){
 	/* 
@@ -71,8 +69,6 @@ main(){
         printf("\n   La relacion: %d == %d , es FALSA", x2, z2);
 	}
 
-	
-
 	printf("\n------------------ 2 ------------------");
 
 	/* 
@@ -97,7 +93,6 @@ main(){
 	}
 
 	printf("\n------------------ 3 ------------------");
-
 	
 	/* 
 	4 - Orden de precedencia
@@ -115,20 +110,19 @@ main(){
 	es evaluado como
 		(a - b) - c
 		
-	
 	Prioridad Operador(es)
 	Más alta 
 		( ) [ ] ->
-		! ~ ++ -- - (tipo) * & sizeof * / %
-		+ - << >>
-		< <= > >=
-		== != &
-		^
-		|
-		&&
-		||
-		?= += -= *= /= 
-		,
+		 ! ~ ++ -- - (tipo) * & sizeof * / %
+		  + - << >>
+		   < <= > >=
+		    == != &
+		     ^
+		      |
+		       &&
+		        ||
+		         ?= += -= *= /= 
+		          ,
 	Más baja
 	*/
 	
