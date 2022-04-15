@@ -14,7 +14,6 @@
 */
 
 #include <stdio.h>
-#include <string.h>
 
 /*
 	Ejercicio 4: 
