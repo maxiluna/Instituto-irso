@@ -14,7 +14,6 @@
 */
 
 #include <stdio.h>
-#include <string.h>
 
 /*
 	Ejercicio 3:
@@ -30,7 +29,6 @@ struct
 	int legajo;
 	float nota;
 } vectorA[3]; // Indico largo de vector
-
 
 
 void creadatos_vector(int n) {
