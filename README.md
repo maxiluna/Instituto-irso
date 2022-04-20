@@ -5,7 +5,6 @@
 
 - :1234: Algebra 
 - 👨‍💻 [Programación I](https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/README.md)
-- :computer: Teoría de Sistemas
 
 <h4 align="left">Segundo año</h4>
 
