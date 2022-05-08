@@ -7,9 +7,9 @@
 
 <h4 align="left">Segundo año</h4>
 
-- 👨‍💻 Programación II
+- 👨‍💻 Programación II - (Lenguaje VisualBasic, .NET y SQL)
 - Bases de datos
-- Integracion de programacion
+- Integracion de programacion - (Lenguaje JAVA y SQL)
 
 
 <h3 align="left">Conectate conmigo en:</h3>
