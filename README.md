@@ -3,12 +3,10 @@
 
 <h4 align="left">Primer año</h4>
 
-- :1234: Algebra 
 - 👨‍💻 [Programación I - (Lenguaje C)](https://github.com/maxiluna/Instituto-irso/blob/main/01-programacion1/README.md)
 
 <h4 align="left">Segundo año</h4>
 
-- Analisis Matematico
 - 👨‍💻 Programación II
 - Bases de datos
 - Integracion de programacion
