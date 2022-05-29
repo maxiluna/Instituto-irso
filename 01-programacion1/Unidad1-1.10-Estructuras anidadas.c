@@ -57,7 +57,7 @@ int main()
 	scanf("%d",&z);
 	for (z=z; z<10; z++) {
 		for (j=z; j<10; j++) {
-			printf("Se imprime FOR ANIDADO %d\n", z);
+			printf("Se imprime FOR ANIDADO %d\n", j);
 		}
 		printf("Se imprime FOR %d\n", z);
 	}
