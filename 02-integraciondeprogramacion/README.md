@@ -28,12 +28,7 @@
         - [Unidad3-3.04-EjercicioEstruc 3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.04-EjercicioEstruc%203.c)
         - [Unidad3-3.04-EjercicioEstruc 4 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.04-EjercicioEstruc%204.c)
         - [Unidad3-3.05-EjercicioArchivos 1 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.05-EjercicioArchivos%201.c)
-        - [Unidad3-3.05-EjercicioArchivos 2 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.05-EjercicioArchivos%202.c)
-        - [Unidad3-3.05-EjercicioArchivos 3 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.05-EjercicioArchivos%203.c)
-        - [Unidad3-3.05-EjercicioArchivos 4 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.05-EjercicioArchivos%204.c)
-        - [Unidad3-3.05-EjercicioArchivos 5 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.05-EjercicioArchivos%205.c)
-        - [Unidad3-3.05-EjercicioArchivos 6 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.05-EjercicioArchivos%206.c)
-        - [Unidad3-3.05-EjercicioArchivos 7 - <img src="https://github.com/maxiluna/maxiluna/blob/main/c-logo.svg" alt="c" width="30" height="30"/>](Unidad3-3.05-EjercicioArchivos%207.c)
+
 
 - Compiladores online
   - https://www.onlinegdb.com/online_java_compiler
