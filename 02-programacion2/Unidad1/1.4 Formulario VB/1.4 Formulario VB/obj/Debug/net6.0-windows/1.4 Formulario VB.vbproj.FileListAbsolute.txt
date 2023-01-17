@@ -1,0 +1,17 @@
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.vbproj.AssemblyReference.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.vbproj.GenerateResource.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.AssemblyInfoInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.AssemblyInfo.vb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.vbproj.CoreCompileInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\bin\Debug\net6.0-windows\1.4 Formulario VB.exe
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\bin\Debug\net6.0-windows\1.4 Formulario VB.deps.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\bin\Debug\net6.0-windows\1.4 Formulario VB.runtimeconfig.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\bin\Debug\net6.0-windows\1.4 Formulario VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\bin\Debug\net6.0-windows\1.4 Formulario VB.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\_1._4_Formulario_VB.Form1.resources
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\refint\1.4 Formulario VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\1.4 Formulario VB.genruntimeconfig.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.4 Formulario VB\1.4 Formulario VB\obj\Debug\net6.0-windows\ref\1.4 Formulario VB.dll

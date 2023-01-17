@@ -1,0 +1,15 @@
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\bin\Debug\net6.0\1.2 Instrucciones basicas VB.exe
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\bin\Debug\net6.0\1.2 Instrucciones basicas VB.deps.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\bin\Debug\net6.0\1.2 Instrucciones basicas VB.runtimeconfig.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\bin\Debug\net6.0\1.2 Instrucciones basicas VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\bin\Debug\net6.0\1.2 Instrucciones basicas VB.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.vbproj.AssemblyReference.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.AssemblyInfoInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.AssemblyInfo.vb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.vbproj.CoreCompileInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\refint\1.2 Instrucciones basicas VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\1.2 Instrucciones basicas VB.genruntimeconfig.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Instrucciones basicas VB\1.2 Instrucciones basicas VB\obj\Debug\net6.0\ref\1.2 Instrucciones basicas VB.dll

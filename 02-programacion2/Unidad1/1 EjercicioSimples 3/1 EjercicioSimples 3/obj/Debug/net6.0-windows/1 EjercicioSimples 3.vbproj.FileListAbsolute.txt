@@ -1,0 +1,17 @@
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\bin\Debug\net6.0-windows\1 EjercicioSimples 3.exe
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\bin\Debug\net6.0-windows\1 EjercicioSimples 3.deps.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\bin\Debug\net6.0-windows\1 EjercicioSimples 3.runtimeconfig.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\bin\Debug\net6.0-windows\1 EjercicioSimples 3.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\bin\Debug\net6.0-windows\1 EjercicioSimples 3.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.vbproj.AssemblyReference.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\_1_EjercicioSimples_3.Form1.resources
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.vbproj.GenerateResource.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.AssemblyInfoInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.AssemblyInfo.vb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.vbproj.CoreCompileInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\refint\1 EjercicioSimples 3.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\1 EjercicioSimples 3.genruntimeconfig.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioSimples 3\1 EjercicioSimples 3\obj\Debug\net6.0-windows\ref\1 EjercicioSimples 3.dll

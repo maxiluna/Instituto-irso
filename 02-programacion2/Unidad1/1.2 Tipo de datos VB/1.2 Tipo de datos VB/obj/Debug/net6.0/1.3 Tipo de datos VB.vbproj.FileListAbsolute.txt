@@ -1,0 +1,15 @@
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\bin\Debug\net6.0\1.3 Tipo de datos VB.exe
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\bin\Debug\net6.0\1.3 Tipo de datos VB.deps.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\bin\Debug\net6.0\1.3 Tipo de datos VB.runtimeconfig.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\bin\Debug\net6.0\1.3 Tipo de datos VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\bin\Debug\net6.0\1.3 Tipo de datos VB.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.vbproj.AssemblyReference.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.AssemblyInfoInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.AssemblyInfo.vb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.vbproj.CoreCompileInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\refint\1.3 Tipo de datos VB.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\1.3 Tipo de datos VB.genruntimeconfig.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1.2 Tipo de datos VB\1.2 Tipo de datos VB\obj\Debug\net6.0\ref\1.3 Tipo de datos VB.dll
