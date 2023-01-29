@@ -1,0 +1,17 @@
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\bin\Debug\net6.0-windows\1 EjercicioAdicional 5.exe
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\bin\Debug\net6.0-windows\1 EjercicioAdicional 5.deps.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\bin\Debug\net6.0-windows\1 EjercicioAdicional 5.runtimeconfig.json
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\bin\Debug\net6.0-windows\1 EjercicioAdicional 5.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\bin\Debug\net6.0-windows\1 EjercicioAdicional 5.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.vbproj.AssemblyReference.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\_1_EjercicioAdicional_5.Form1.resources
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.vbproj.GenerateResource.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.AssemblyInfoInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.AssemblyInfo.vb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.vbproj.CoreCompileInputs.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\refint\1 EjercicioAdicional 5.dll
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.pdb
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\1 EjercicioAdicional 5.genruntimeconfig.cache
+C:\Users\maximiliano.luna\source\irso\Unidad1\1 EjercicioAdicional 5\1 EjercicioAdicional 5\obj\Debug\net6.0-windows\ref\1 EjercicioAdicional 5.dll
